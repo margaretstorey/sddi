@@ -12,7 +12,7 @@ Emerson Murphy-Hill,  Google
 
 [Margaret-Anne Storey](http://margaretstorey.com/),  University of Victoria   
 
-This workshop was organized to raise awareness about developer diversity and inclusion challenges faced by industry today. Our intent was to understand these challenges more clearly, to brainstorm concrete goals to address them, and to gather recommendations and best practices to share with practitioners.  We also aimed to build a community of researchers and practitioners that share a passion to improve software developer diversity and inclusion.  The workshop had a mix of invited keynote presentations and facilitator led discussions.  Below, you may find details on the [schedule](#schedule) with links to the keynotes and [lightning talks](#lightningtalks) and a list of [workshop attendees](#attendees).  Stay tuned for more details of the workshop outcomes! 
+This workshop was organized to raise awareness about developer diversity and inclusion challenges faced by industry today. Our intent was to understand these challenges more clearly, to brainstorm concrete goals to address them, and to gather recommendations and best practices to share with practitioners.  We also aimed to build a community of researchers and practitioners that share a passion to improve software developer diversity and inclusion.  The workshop had a mix of invited keynote presentations and facilitator led discussions.  Below, you may find details on the [schedule](#schedule) with links to the keynotes, links for [lightning talks](#lightningtalks) and a list of the [workshop attendees](#attendees).  Stay tuned for more details of the workshop outcomes! 
 
 ![Image description](group.jpg)
 
