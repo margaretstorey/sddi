@@ -4,62 +4,22 @@ Location: Google, San Francisco
 
 June 4-6, 2019
 
+Sponsored by Google, USA
+
 ### Organizers: 
 
----
+Emerson Murphy-Hill,  Google 
 
-|  |  |  
-| -------| ---------------| 
-| Emerson Murphy-Hill | Google | 
-| [Margaret-Anne Storey](http://margaretstorey.com/) | University of Victoria |  
+[Margaret-Anne Storey](http://margaretstorey.com/),  University of Victoria   
 
----
-
-
-### Attendees: 
-
----
-
-| Name | Affiliation| 
-| -------| ---------------| 
-| [Jo Atlee](https://cs.uwaterloo.ca/~jmatlee/) | University of Waterloo, Canada| 
-| [Alberto Bacchelli](https://sback.it) | University of Zurich, Switzerland |  
-| [Andrew Begel](https://sback.it) | Microsoft, USA |
-| [Pernille Bjørn](https://pernillebjorn.dk) | University of Copenhagen, Denmark | 
-| [Kelly Blincoe](http://kblincoe.github.io) | University of Auckland, New Zealand |
-| [Valeria Borsotti](https://pure.itu.dk/portal/en/persons/valeria-borsotti(d95ef042-b41c-46cf-b133-6b1d01cad170).html) | IT University of Copenhagen, Denmark | 
-| [Amiangshu Bosu](http://amiangshu.com) | Wayne State University, USA| 
-| Andy Brook | Google | 
-| [Margaret Burnett](http://web.engr.oregonstate.edu/~burnett/) | Oregon State, USA |
-| Laura Dabbish| Carnegie Mellon University, USA |
-| [Prem Devanbu](https://www.cs.ucdavis.edu/~devanbu) | UC Davis, USA |
-| Jill Dicker | Google, USA |  
-| Anna Filipova | GitHub, USA | 
-| [Vladimir Filkov](https://web.cs.ucdavis.edu/~filkov/) | UC Davis, USA | 
-| [Thomas Fritz](https://www.ifi.uzh.ch/en/seal/people/fritz.html)| University of Zurich, Switzerland | 
-| Daniel German | University of Victoria, Canada |
-| Amber Horvath | Google, USA |  
-| Liz Kammer | Google, USA |
-| Alice Merrick | Google, USA | 
-| Ambar Murillo | Google, USA | 
-| [Venkatesh Potluri](https://venkateshpotluri.me )| University of Washington, USA|
-| [Ayushi Rastogi](www.ayushir.com) | TU Delft, The Netherlands | 
-| [Ita Richardson](https://ulris3.ul.ie/live/!W_VA_CV_BUILDER.POPUP?LAYOUT=Y&USER=ita.richardson%40lero.ie) | University of Limerick, Ireland | 
-| [Anita Sarma](http://web.engr.oregonstate.edu/~sarmaa/) | Oregon State, USA | 
-| [Alexander Serebrenik](http://www.win.tue.nl/~aserebre/) | TU Eindhoven, The Netherlands | 
-| Kate Stewart | Linux Foundation, USA | 
-| [Vanja Tufvesson](https://www.pinkprogramming.se/en/ ) |  Pink Programming, Sweden | 
-| [Bogdan Vasilescu](http://cmustrudel.github.io) |  CMU, USA |
-| Jeff Warshaw | Google, USA |
-
----
+This workshop was organized to raise awareness about developer diversity and inclusion challenges faced by industry today. Our intent was to understand these challenges more clearly, to brainstorm concrete goals to address them, and to gather recommendations and best practices to share with practitioners.  We also aimed to build a community of researchers and practitioners that share a passion to improve software developer diversity and inclusion.  The workshop had a mix of invited keynote presentations and facilitator led discussions.  Below, you may find details on the schedule, talk links and workshop attendees.  Stay tuned for more details of the workshop outcomes! 
 
 
 ### Schedule
 
 ---
 
-| Date | Time | Event/Link | Speaker/Leader | 
+| Date | Time | Topic/Link | Speaker/Leader | 
 | ---- | ---- | ----- | ---------------| 
 | Tuesday June 4th | 9:00-10:00 | [Minding the Gaps: Diversity and Inclusion](https://drive.google.com/file/d/1X0dT2bw7zvCU0_12c7mBRk5MCExWhRd-/view?usp=sharing) | Kate Stewart, The Linux Foundation  | 
 | | 10:00-12:00 | Scoping the research area/Breakouts | Margaret Storey |
@@ -95,6 +55,44 @@ June 4-6, 2019
 
 [Valeria Borsotti](https://docs.google.com/presentation/d/11_QXJQzcb1Uiq-P4aCDqwrHdhtBRS2-Z-fL-G_IQ0UE/edit?usp=sharing) 
 
+
+---
+
+### List of Attendees: 
+
+---
+
+| Name | Affiliation| 
+| -------| ---------------| 
+| [Jo Atlee](https://cs.uwaterloo.ca/~jmatlee/) | University of Waterloo, Canada| 
+| [Alberto Bacchelli](https://sback.it) | University of Zurich, Switzerland |  
+| [Andrew Begel](https://sback.it) | Microsoft, USA |
+| [Pernille Bjørn](https://pernillebjorn.dk) | University of Copenhagen, Denmark | 
+| [Kelly Blincoe](http://kblincoe.github.io) | University of Auckland, New Zealand |
+| [Valeria Borsotti](https://pure.itu.dk/portal/en/persons/valeria-borsotti(d95ef042-b41c-46cf-b133-6b1d01cad170).html) | IT University of Copenhagen, Denmark | 
+| [Amiangshu Bosu](http://amiangshu.com) | Wayne State University, USA| 
+| Andy Brook | Google | 
+| [Margaret Burnett](http://web.engr.oregonstate.edu/~burnett/) | Oregon State, USA |
+| Laura Dabbish| Carnegie Mellon University, USA |
+| [Prem Devanbu](https://www.cs.ucdavis.edu/~devanbu) | UC Davis, USA |
+| Jill Dicker | Google, USA |  
+| Anna Filipova | GitHub, USA | 
+| [Vladimir Filkov](https://web.cs.ucdavis.edu/~filkov/) | UC Davis, USA | 
+| [Thomas Fritz](https://www.ifi.uzh.ch/en/seal/people/fritz.html)| University of Zurich, Switzerland | 
+| Daniel German | University of Victoria, Canada |
+| Amber Horvath | Google, USA |  
+| Liz Kammer | Google, USA |
+| Alice Merrick | Google, USA | 
+| Ambar Murillo | Google, USA | 
+| [Venkatesh Potluri](https://venkateshpotluri.me )| University of Washington, USA|
+| [Ayushi Rastogi](www.ayushir.com) | TU Delft, The Netherlands | 
+| [Ita Richardson](https://ulris3.ul.ie/live/!W_VA_CV_BUILDER.POPUP?LAYOUT=Y&USER=ita.richardson%40lero.ie) | University of Limerick, Ireland | 
+| [Anita Sarma](http://web.engr.oregonstate.edu/~sarmaa/) | Oregon State, USA | 
+| [Alexander Serebrenik](http://www.win.tue.nl/~aserebre/) | TU Eindhoven, The Netherlands | 
+| Kate Stewart | Linux Foundation, USA | 
+| [Vanja Tufvesson](https://www.pinkprogramming.se/en/ ) |  Pink Programming, Sweden | 
+| [Bogdan Vasilescu](http://cmustrudel.github.io) |  CMU, USA |
+| Jeff Warshaw | Google, USA |
 
 ---
 
