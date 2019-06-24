@@ -12,7 +12,7 @@ Emerson Murphy-Hill,  Google
 
 [Margaret-Anne Storey](http://margaretstorey.com/),  University of Victoria   
 
-This workshop was organized to raise awareness about developer diversity and inclusion challenges faced by industry today. Our intent was to understand these challenges more clearly, to brainstorm concrete goals to address them, and to gather recommendations and best practices to share with practitioners.  We also aimed to build a community of researchers and practitioners that share a passion to improve software developer diversity and inclusion.  The workshop had a mix of invited keynote presentations and facilitator led discussions.  Below, you may find details on the [schedule](#schedule) with links to the keynotes, links for [lightning talks](#lightningtalks) and a list of the [workshop attendees](#attendees).  Stay tuned for more details of the workshop outcomes! 
+This workshop was organized to raise awareness about developer diversity and inclusion challenges faced by industry today. Our intent was to understand these challenges more clearly, to brainstorm concrete goals to address them, and to gather recommendations and best practices to share with practitioners.  We also aimed to build a community of researchers and practitioners that share a passion to improve software developer diversity and inclusion.  The workshop had a mix of invited keynote presentations and facilitator led discussions.  Below, you may find details on the [schedule](#schedule) with links to the keynotes, links for [lightning talks](#lightning-talks) and a list of the [workshop attendees](#attendees).  Stay tuned for more details of the workshop outcomes! 
 
 ![Image description](group.jpg)
 
@@ -39,7 +39,7 @@ This workshop was organized to raise awareness about developer diversity and inc
 | | 14:00-16:00 | Breakouts | | 
 | | 16:00-17:00 | Closing and next steps | |
 
-### Lightningtalks
+### Lightning talks
 
 [Ayushi Rastogi](https://www.slideshare.net/AyushiRastogi12/geographical-diversity-and-software-development)
 
@@ -68,8 +68,8 @@ This workshop was organized to raise awareness about developer diversity and inc
 | -------| ---------------| 
 | [Jo Atlee](https://cs.uwaterloo.ca/~jmatlee/) | University of Waterloo, Canada| 
 | [Alberto Bacchelli](https://sback.it) | University of Zurich, Switzerland |  
-| [Andrew Begel](https://sback.it) | Microsoft, USA |
-| [Pernille Bjørn](https://pernillebjorn.dk) | University of Copenhagen, Denmark | 
+| [Andrew Begel](https://andrewbegel.com/) | Microsoft, USA |
+| [Pernille Bjørn](http://www.circonflexe.dk/pernillebjorn/) | University of Copenhagen, Denmark | 
 | [Kelly Blincoe](http://kblincoe.github.io) | University of Auckland, New Zealand |
 | [Valeria Borsotti](https://pure.itu.dk/portal/en/persons/valeria-borsotti(d95ef042-b41c-46cf-b133-6b1d01cad170).html) | IT University of Copenhagen, Denmark | 
 | [Amiangshu Bosu](http://amiangshu.com) | Wayne State University, USA| 
@@ -87,13 +87,13 @@ This workshop was organized to raise awareness about developer diversity and inc
 | Alice Merrick | Google, USA | 
 | Ambar Murillo | Google, USA | 
 | [Venkatesh Potluri](https://venkateshpotluri.me )| University of Washington, USA|
-| [Ayushi Rastogi](www.ayushir.com) | TU Delft, The Netherlands | 
+| [Ayushi Rastogi](https://ayushirastogi.github.io/) | TU Delft, The Netherlands | 
 | [Ita Richardson](https://ulris3.ul.ie/live/!W_VA_CV_BUILDER.POPUP?LAYOUT=Y&USER=ita.richardson%40lero.ie) | University of Limerick, Ireland | 
 | [Anita Sarma](http://web.engr.oregonstate.edu/~sarmaa/) | Oregon State, USA | 
 | [Alexander Serebrenik](http://www.win.tue.nl/~aserebre/) | TU Eindhoven, The Netherlands | 
 | Kate Stewart | Linux Foundation, USA | 
 | [Vanja Tufvesson](https://www.pinkprogramming.se/en/ ) |  Pink Programming, Sweden | 
-| [Bogdan Vasilescu](http://cmustrudel.github.io) |  CMU, USA |
+| [Bogdan Vasilescu](https://cmustrudel.github.io/) |  CMU, USA |
 | Jeff Warshaw | Google, USA |
 
 ---
