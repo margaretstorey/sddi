@@ -53,7 +53,7 @@ This workshop was organized to raise awareness about developer diversity and inc
 
 [Laura Dabbish](https://docs.google.com/presentation/d/1eOfzA7r7Y8ycFSqSlTRzYtyShQjgz0o7lg8uLJI3zLI/edit?usp=sharing) 
 
-[Vladimir Filkov](https://drive.google.com/file/d/1MqEQ1HwDDbdeJuTMN1Xr9fCwmi1KCkb1/view?usp=sharing) 
+Vladimir Filkov
 
 [Valeria Borsotti](https://docs.google.com/presentation/d/11_QXJQzcb1Uiq-P4aCDqwrHdhtBRS2-Z-fL-G_IQ0UE/edit?usp=sharing) 
 
