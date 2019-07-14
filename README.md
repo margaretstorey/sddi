@@ -84,7 +84,7 @@ This workshop was organized to raise awareness about developer diversity and inc
 | Amber Horvath | Google, USA |  
 | Liz Kammer | Google, USA |
 | Alice Merrick | Google, USA | 
-| Ambar Murillo | Google, USA | 
+| Ambar Murillo | Google, Germany | 
 | [Venkatesh Potluri](https://venkateshpotluri.me )| University of Washington, USA|
 | [Ayushi Rastogi](https://ayushirastogi.github.io/) | TU Delft, The Netherlands | 
 | [Ita Richardson](https://ulris3.ul.ie/live/!W_VA_CV_BUILDER.POPUP?LAYOUT=Y&USER=ita.richardson%40lero.ie) | University of Limerick, Ireland | 
