@@ -8,7 +8,7 @@ Sponsored by Google, USA
 
 ### Organizers: 
 
-Emerson Murphy-Hill,  Google 
+[Emerson Murphy-Hill](https://ai.google/research/people/EmersonMurphyHill),  Google 
 
 [Margaret-Anne Storey](http://margaretstorey.com/),  University of Victoria   
 
