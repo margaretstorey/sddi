@@ -73,7 +73,6 @@ This workshop was organized to raise awareness about developer diversity and inc
 | [Kelly Blincoe](http://kblincoe.github.io) | University of Auckland, New Zealand |
 | [Valeria Borsotti](https://pure.itu.dk/portal/en/persons/valeria-borsotti(d95ef042-b41c-46cf-b133-6b1d01cad170).html) | IT University of Copenhagen, Denmark | 
 | [Amiangshu Bosu](http://amiangshu.com) | Wayne State University, USA| 
-| Andy Brook | Google | 
 | [Margaret Burnett](http://web.engr.oregonstate.edu/~burnett/) | Oregon State, USA |
 | Laura Dabbish| Carnegie Mellon University, USA |
 | [Prem Devanbu](https://www.cs.ucdavis.edu/~devanbu) | UC Davis, USA |
