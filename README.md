@@ -28,11 +28,11 @@ This workshop was organized to raise awareness about developer diversity and inc
 | | 13:00-14:00 | [Identifying Challenges Faced by Neurodiverse Software Engineers: Ensuring an Inclusive Technical Workforce](https://andrewbegel.com/papers/autism-at-work-sddi-workshop-begel.pdf) | Andrew Begel, Microsoft |
 | | 14:00-16:00 | Breakouts | Andy Begel, Microsoft | 
 | | 16:00-17:00| Organizer Intros + Lightning Talks (see links below) | |
-| Wednesday, June 5th | 9:00-10:00 | [Identifying Developers’ Gender: State of the Art](https://www.slideshare.net/aserebrenik/identifying-developers-gender-state-of-the-art-148953605)| Alexander Serebrenik, Eindhoven University of Technology |
-| | 10:00-12:00 | Breakouts | Anna Filipova, BigHub | 
-| | 13:00-14:00 | [Improving Programming Environment Accessibility for Visually Impaired Developers](https://www.dropbox.com/sh/4ikx8gsv44lzm2a/AAAU4-bVVJjyifvdkVOrWzHya?dl=0) | Venkatesh Potluri, University of Washington |
+| Wednesday, June 5th | 9:00-10:00 | [Identifying Developers’ Gender: State of the Art](https://www.slideshare.net/aserebrenik/identifying-developers-gender-state-of-the-art-148953605) [recording](https://youtu.be/ZkbZUBYWWpg) | Alexander Serebrenik, Eindhoven University of Technology |
+| | 10:00-12:00 | Breakouts | Anna Filipova, GitHub | 
+| | 13:00-14:00 | [Improving Programming Environment Accessibility for Visually Impaired Developers](https://www.dropbox.com/sh/4ikx8gsv44lzm2a/AAAU4-bVVJjyifvdkVOrWzHya?dl=0) [recording](https://youtu.be/YIiHwXnglRE) | Venkatesh Potluri, University of Washington |
 | | 14:00-16:00 | Breakouts | Emerson Murphy=Hill | 
-| | 16:00-17:00 | [Gender-Inclusivity Software Engineering](https://drive.google.com/file/d/1V0-JCmOarr2AZysjKcfWfi11BzGmrYth/view?usp=sharing) | Anita Sarma and Margaret Burnett, Oregon State University |
+| | 16:00-17:00 | [Gender-Inclusivity Software Engineering](https://drive.google.com/file/d/1V0-JCmOarr2AZysjKcfWfi11BzGmrYth/view?usp=sharing) [recording](https://youtu.be/JVTgpRfHXoI) | Anita Sarma and Margaret Burnett, Oregon State University |
 | Thursday, June 6th | 9:00-10:00 | [Leveraging Signals to Build More Sustainable Open Source Communities](https://cmustrudel.github.io/slides/google-sddi.pdf) | Bogdan Vasilescu, Carnegie Mellon University |
 | | 10:00-12:00 | Breakouts | |
 | | 13:00-14:00 | [Diversity in Computer Science Through Design & Craft: Femtech.dk & Atari Women](https://www.dropbox.com/s/67z4dqx9enyyi4f/PernilleBjornGoogleJune2019_3.pdf?dl=0) | Pernille Bjørn, University of Copenhagen | 
